@@ -1,2 +1,0 @@
-# js-hw-pure-functions
- 
